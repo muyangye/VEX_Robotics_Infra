@@ -1,5 +1,5 @@
 # VEX_Robotics_Infra
-These were the codes I wrote in 2018-2019 (high school sophomore) xxd:) They served as the "libraries" for different autonomous period's programs with different starting points and the manual control program.
+These are the codes I wrote in 2018-2019 (high school sophomore) xxd:) They serve as the "libraries" for different autonomous period's programs with different starting points and the manual control program, which are SECRETS ^_^
 
 [World Championship As A First Season Team](https://drive.google.com/drive/folders/17T3aQ_AGz_UQ_2OWVD0sueTegPNujXqW) <br />
 [Asia Open First Prize & Design Award & Best Engineering Log](https://drive.google.com/drive/folders/1cK0AcWcnEU1R8HOiOzJBvAz1Ug74kbcl) <br />
